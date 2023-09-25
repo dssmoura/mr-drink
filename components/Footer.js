@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="bg-gray-800 text-white py-4">
+    <footer className="bg-gray-800 text-white py-4 fixed bottom-0 left-0 right-0">
       <div className="flex items-center justify-center">
         <a href="#" className="text-white mr-4 hover:text-gray-500">
           <i className="fab fa-facebook"></i>
